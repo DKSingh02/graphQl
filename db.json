@@ -1,0 +1,11 @@
+{
+    "users": [
+        {"id": "1", "firstName": "Diwakar", "age": 28, "companyId": "44" },
+        {"id": "2", "firstName": "Arvind", "age": 32,  "companyId": "45" },
+        {"id": "3", "firstName": "Pranag", "age": 24,  "companyId": "44" } 
+    ],
+    "companies": [
+        { "id": "44", "name": "Amazon", "description": "Ecommerce"} ,
+        { "id": "45", "name": "Google", "description": "Search" }
+    ]
+}
