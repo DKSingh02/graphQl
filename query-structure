@@ -1,0 +1,29 @@
+
+// Fragments 
+
+
+// {
+//     amazon: company(id: "44") {
+//       ...companyDetails
+//     }
+//     google: company(id: "45") {
+//       ...companyDetails
+//     }
+//   }
+  
+//   fragment companyDetails on Company {
+//     id
+//     name
+//     description
+//   }
+  
+
+// Mutation
+
+// mutation {
+//     addUser(firstName: "Mohit", age: 34) {
+//       id
+//       firstName
+//       age
+//     }
+//   }
